@@ -210,7 +210,7 @@ img {
     padding-block: 1.8rem 5rem;
     text-align: center;
     backdrop-filter: blur(8px);
-    transition: top 0.4;
+    transition: top 0.4s;
   }
 }
 
@@ -289,4 +289,8 @@ img {
   top: 1rem;
   right: 1.5rem;
   cursor: pointer;
+}
+
+.show-menu {
+  top: 0;
 }
